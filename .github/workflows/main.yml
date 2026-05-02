@@ -1,0 +1,28 @@
+<main>
+    <section class="hero">
+        <h2>Top Up Game Favoritmu di Sini</h2>
+        <p>Proses cepat, aman, dan terpercaya.</p>
+    </section>
+
+    <section class="game-grid">
+        <div class="card">
+            <img src="https://via.placeholder.com/150" alt="Mobile Legends">
+            <h3>Mobile Legends</h3>
+            <button>Top Up</button>
+        </div>
+        <div class="card">
+            <img src="https://via.placeholder.com/150" alt="Free Fire">
+            <h3>Free Fire</h3>
+            <button>Top Up</button>
+        </div>
+        <div class="card">
+            <img src="https://via.placeholder.com/150" alt="PUBG Mobile">
+            <h3>PUBG Mobile</h3>
+            <button>Top Up</button>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Fadli Store. All Rights Reserved.</p>
+</footer>
